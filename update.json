@@ -1,10 +1,9 @@
 {
   "homepage": "https://github.com/RavenholmZombie/Immersibrook/releases",
   "1.12.2": {
-	"0.0.8.1": "Test Update",
 	"0.0.8": "The Big Chungus Update"
   },
   "promos": {
-    "1.12.2-latest": "0.0.8.1"
+    "1.12.2-latest": "0.0.8"
   }
 }
