@@ -1,9 +1,9 @@
 {
   "homepage": "https://github.com/RavenholmZombie/Immersibrook/releases",
   "1.12.2": {
-	"0.0.8": "The Big Chungus Update"
+	"1.0.0.6": "The Technology Update - Pre-Release 6"
   },
   "promos": {
-    "1.12.2-recommended": "0.0.8"
+    "1.12.2-recommended": "1.0.0.6"
   }
 }
