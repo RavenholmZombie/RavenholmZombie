@@ -1,9 +1,9 @@
 {
-  "homepage": "https://github.com/RavenholmZombie/Immersibrook/releases",
+  "homepage": "https://github.com/Mesabrook-Development-Team/Immersibrook/releases",
   "1.12.2": {
-	"1.0.0.6": "The Technology Update - Pre-Release 6"
+	"1.0.0.9": "The Technology Update - Pre-Release 9"
   },
   "promos": {
-    "1.12.2-recommended": "1.0.0.6"
+    "1.12.2-recommended": "1.0.0.9"
   }
 }
