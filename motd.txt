@@ -1,5 +1,5 @@
-§l§bWelcome to Mesabrook!§r
-
-§6Useful Links:§r
-§o§7Our Website: https://mesabrook.com§r
+§l§bWelcome to Mesabrook!§r\n
+\n
+§6Useful Links:§r\n
+§o§7Our Website: https://mesabrook.com§r\n
 §o§7Our Dynmap: http://map.mesabrook.com§r
