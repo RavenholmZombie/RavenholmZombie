@@ -1,4 +1,4 @@
-§l§bWelcome to Mesabrook!§r
+§b§lWelcome to Mesabrook, %p!§r
 
 §6Useful Links:§r
 §o§7Our Website: https://mesabrook.com§r
