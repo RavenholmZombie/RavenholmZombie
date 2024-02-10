@@ -1,6 +1,5 @@
 §b§lWelcome to Mesabrook, %p!§r
-§cYou are running an in-development build. Expect bugs!§r
 
 §6Useful Links:§r
-§o§7Our Website: https://mesabrook.com§r
-§o§7Our Dynmap: http://map.mesabrook.com§r
+§o§7Our Website: https://mesabrook.com §r
+§o§7Our Dynmap: http://map.mesabrook.com §r
