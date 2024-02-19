@@ -1,5 +1,7 @@
 §b§lWelcome to Mesabrook, %p!§r
 
+The In-Game Shops Update is here!
+
 §6Useful Links:§r
 §o§7Our Website: https://mesabrook.com §r
 §o§7Our Dynmap: http://map.mesabrook.com §r
