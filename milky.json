@@ -1,0 +1,9 @@
+{
+  "homepage": "https://github.com/Mesabrook-Development-Team/Milky/releases",
+  "1.12.2": {
+	"1.0.0": "Initial Release"
+  },
+  "promos": {
+    "1.12.2-recommended": "1.0.0"
+  }
+}
