@@ -1,7 +1,6 @@
 §b§lWelcome to Mesabrook, %p!§r
 
-The In-Game Shops Update is here!
-§cImgur is evil!§r
+§a§oNow with 85% less lag!§r
 
 §6Useful Links:§r
 §o§7Our Website: https://mesabrook.com §r
