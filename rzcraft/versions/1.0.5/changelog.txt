@@ -1,0 +1,15 @@
+RZCraft Version 1.0.5
+
+Legend:
++ = Added
+- = Removed
+U = Updated
+
+Changelog:
+	- Plasmo Voice
+	+ Macaw's Windows
+	+ Macaw's Paintings
+	+ Iron Furnaces
+	+ (Client Only) Fast IP Ping
+	+ Log Be Gone!
+	+ Polymorph
