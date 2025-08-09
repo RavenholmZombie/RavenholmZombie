@@ -13,3 +13,6 @@ Changelog:
 	+ (Client Only) Fast IP Ping
 	+ Log Be Gone!
 	+ Polymorph
+
+Grab the .mrpack at: https://gvarchive.com/mc/RZCraft.mrpack
+Grab a complete .zip at: <url>

@@ -2,6 +2,13 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+		"id": "1.0.5",
+		"releasedAt": 19022934982,
+		"promotions":
+		{
+			"generic": "https://gvarchive.com/mc/RZCraft.mrpack"
+		}
+	}
   ]
 }
