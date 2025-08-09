@@ -10,6 +10,7 @@ Changelog:
 	+ Macaw's Windows
 	+ Macaw's Paintings
 	+ Iron Furnaces
+	+ (Client Only) Fast IP Ping
 	+ Log Be Gone!
 	+ Polymorph
 
