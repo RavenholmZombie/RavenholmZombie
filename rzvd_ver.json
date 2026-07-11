@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "downloadUrl": "https://github.com/RavenholmZombie/RZ-s-Video-Downloader/releases/latest",
-  "notes": "Implemented a new system that automatically downloads both FFMPEG and YT-DLP and keeps them updated."
+  "notes": "Hotfix Update - See GitHub release for changelog."
 }
